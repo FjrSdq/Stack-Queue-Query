@@ -10,7 +10,6 @@ Kelas : Struktur Data A <br>
 ## Stack
 **Stack** adalah sebuah struktur data berbentuk linier (lurus) yang mengikuti aturan terentu untuk melakukan operasi. <br>
 Data yang memiliki struktur stack. tersusun seperti tumpukan. <br> 
-<br>
 
 Stack mengikuti prinsip LIFO (Last In First Out), yang berarti elemen yang dimasukkan terakhir akan menjadi elemen pertama yang keluar dari urutan data.
 # ![image](https://media.geeksforgeeks.org/wp-content/uploads/geek-stack-1.png)<br>
@@ -90,7 +89,9 @@ Stack is empty :  false
 
 ## Queue
 **Queue** adalah struktur data linier di mana kita dapat menyisipkan dan menghapus elemen data dari ujung belakang (untuk menyisipkan) dan ujung depan (untuk penghapusan). <br>
+
 Struktur data queue menggunakan prinsip FIFO (First In First Out), yang berarti elemen yang dimasukkan pertama kali dari ujung belakang akan menjadi elemen pertama yang dihapus dari ujung depan. <br>
+
 Adapun istilah" dalam queue, yakni operasi **enqueue** (teknik penyisipan) dan **dequeue** (teknik penghapusan). <br>
 # ![image](https://media.geeksforgeeks.org/wp-content/uploads/geek-queue-1.png)
 
